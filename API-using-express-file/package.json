@@ -1,0 +1,11 @@
+{
+  "name": "node_mini_project",
+  "packageManager": "yarn@4.6.0",
+  "scripts": {
+    "start": "nodemon index.js" 
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.9"
+  }
+}
